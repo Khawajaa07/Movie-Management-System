@@ -1,6 +1,6 @@
 # Movie Management System
 
-This Python script provides a simple Movie Management System with functionalities for both users and admins. The system manages movies, shows, and bookings using text files to store data.
+This Movie Management System with functionalities for both users and admins. The system manages movies, shows, and bookings using text files to store data.
 
 ## Features
 
